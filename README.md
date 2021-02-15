@@ -25,4 +25,5 @@ Software
 *Blynk App
 
 Working
+
 The vehicle is controlled using Rc receiver -transmitter on dc motors , the entire gas detection system is flashed by arduino platform with MQ 2 gas sensor and the real time values are displayed on the bluetooth paired device through Blynk server. 
