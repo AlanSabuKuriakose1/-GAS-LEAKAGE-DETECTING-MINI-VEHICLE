@@ -19,7 +19,9 @@ Hardware
 *Batteries (18650-3000mah)
 
 Software
+
 *Arduino IDE
+
 *Blynk App
 
 Working
