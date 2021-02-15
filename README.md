@@ -7,10 +7,15 @@ This product deliver the service of gas (LPG, Smoke, Alcohol, Propane, Hydrogen,
 Hardware
 
 *Arduino UNO (ATMEGA 328)
+
 *MQ-2 Gas sensor
+
 *4-channel RC Transmitter-Receiver
+
 *Buzzer
+
 *Hc-05 Bluetooth Module
+
 *Batteries (18650-3000mah)
 
 Software
