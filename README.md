@@ -1,4 +1,5 @@
 GAS-LEAKAGE-DETECTING-MINI-VEHICLE
+
 Mini gas leakage detecting vehicle for Industrial applications
 
 This product deliver the service of gas (LPG, Smoke, Alcohol, Propane, Hydrogen, Methane and Carbon Monoxide concentrations anywhere from 200 to 10000ppm.) leakage detection.Most of the fire-breakouts in industries are due to gas leaks. These cause dreadful damage to the equipment, human life leading to injuries, deaths, and environment- LPG and Methane gases catch fire easily resulting in blasts.So its a solution for this incidents to be never again.
